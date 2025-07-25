@@ -3,7 +3,7 @@
 clikeys is a small program to interact with the macOS Text Input Sources (TIS)
 part of Carbon using Objective-C.
 TIS itself seems to be deprecated but I was unable to find any other library or
-framework available on macOS that allows you do interact with the system
+framework available on macOS that allows you to interact with the system
 keyboard layouts in a similar way.
 With clikeys you can query, select, deselect, enable and disable keyboard input
 layouts, similar to how you'd do it through System Settings.
